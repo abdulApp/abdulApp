@@ -15,7 +15,7 @@
 
 ### 👉 Programming Languages 
 
-- 💻   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) | <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> | ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) | ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) | ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) | 
+- 💻   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) | [![Dark](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader) | ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) | ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) | ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) | 
 - 🌐   Android | flutter | HTML | CSS | JavaScript | Bootstrap
 - 🛢   MySQL | Firebase | Xampp
 
