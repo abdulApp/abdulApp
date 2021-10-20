@@ -1,4 +1,6 @@
-- 👋 Hi, I’m abdul, Saudi living in Jedahh now.
+# 👋 Hi, I’m abdul
+<h3> 👨🏻‍💻 About Me </h3>
+- Saudi living in Jedahh now.
 - 👀 I’m interested in React Native, Flutter, Kotlin, Node.js, Angular, JavaScript, Vue.js, CSS, HTML, C++, Java, Python, Git
 <!---
 - 🌱 I’m currently learning ...
