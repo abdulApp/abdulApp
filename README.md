@@ -1,4 +1,4 @@
-# 👋 Hi<img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px">, I’m abdul
+# 👋 Hi <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px">, I’m abdul
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -15,7 +15,7 @@
 
 ### 👉 Programming Languages 
 
-- 💻   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) | Dart | ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) | ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) | ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) | 
+- 💻   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) | <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> | ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) | ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B) | ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) | 
 - 🌐   Android | flutter | HTML | CSS | JavaScript | Bootstrap
 - 🛢   MySQL | Firebase | Xampp
 
