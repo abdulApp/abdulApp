@@ -2,7 +2,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - Saudi living in Jedahh now.
-
+- 🔭 I’m currently learning more React Native Web Application Development
 - 👀 I’m interested in React Native, Flutter, Kotlin, Node.js, Angular, JavaScript, Vue.js, CSS, HTML, C++, Java, Python, Git
 <!---
 - 🌱 I’m currently learning ...
