@@ -1,8 +1,7 @@
-# 👋 Hi <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px">, I’m abdul
-
+# 👋 Hi <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px">, I’m abdul<br>Full Stack Developer from Saudi Arabia :saudi_arabia:
 <h3> 👨🏻‍💻 About Me </h3>
 
-- Saudi living in Jedahh now.
+- :saudi_arabia: Saudi living in Jedahh now.
 - 🎓 Recent computer science graduate from NAU - Flagstaff
 - 📚 I’m currently learning more React Native Web Application Development
 - 🤔 Exploring new technologies and developing software solutions and quick hacks
